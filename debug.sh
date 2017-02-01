@@ -8,4 +8,5 @@ set -o pipefail
 IFS=$'\n\t'
 
 
+
 # Ref: http://redsymbol.net/articles/unofficial-bash-strict-mode/
